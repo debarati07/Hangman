@@ -1,0 +1,23 @@
+words=["Apple",
+"Apricot",
+"Avocado",
+"Banana",
+"Blackberries",
+"Cherries",
+"Date Fruit",
+"Watermelon",
+"Strawberries",
+"Pomegranate",
+"Dragonfruit",
+"Pineapple",
+"Pear",
+"Orange",
+"Papaya",
+"Peach",
+"Lemon",
+"Jackfruit",
+"Grapes",
+"Guava",
+"Blackcurrant"]
+for i in range(len(words)):
+    words[i]=words[i].lower();
